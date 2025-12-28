@@ -1,0 +1,4 @@
+psutil>=5.9.0
+matplotlib>=3.7.0
+pyRAPL>=0.2.3
+pyJoules>=0.5.1
